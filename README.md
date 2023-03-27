@@ -1,1 +1,3 @@
-# python-aa-service
+# python-fastapi
+
+Python base project using fastapi

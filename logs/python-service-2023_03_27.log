@@ -1,0 +1,6 @@
+2023-03-27 00:10:33,175 | INFO     | 0028 | item is not found for ID: 3
+2023-03-27 09:45:15,404 | ERROR    | 0034 | API log is not inserted: Could not locate column in row for column 'dict'
+Traceback (most recent call last):
+  File "/Users/prakashdharuman/repos/python-service/./repository/items.py", line 23, in update
+    item = item.dict()
+AttributeError: Could not locate column in row for column 'dict'
